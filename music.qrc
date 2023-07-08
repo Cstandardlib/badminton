@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/music_effect/friction.mp3</file>
+        <file>image/music_effect/button_click.mp3</file>
+        <file>image/music_effect/getScore.MP3</file>
+        <file>image/music_effect/hit_badminton.MP3</file>
+        <file>image/music_effect/wave_racket.MP3</file>
+        <file>image/music_BGM/gymBGM.MP3</file>
+        <file>image/music_BGM/menuBGM.mp3</file>
+        <file>image/music_BGM/spaceBGM.MP3</file>
+        <file>image/music_BGM/taichiBGM.mp3</file>
+    </qresource>
+</RCC>

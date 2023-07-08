@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/img_BG/daoBG.png</file>
+        <file>image/img_BG/gymBG.png</file>
+        <file>image/img_BG/helperBG.png</file>
+        <file>image/img_BG/p1wins.png</file>
+        <file>image/img_BG/p2wins.png</file>
+        <file>image/img_BG/prepareBG.png</file>
+        <file>image/img_BG/score_board.png</file>
+        <file>image/img_BG/spaceBG.png</file>
+        <file>image/img_BG/welcomeBG.png</file>
+        <file>image/img_BG/helperBG_800.png</file>
+        <file>image/img_BG/prepareBG_800.png</file>
+        <file>image/img_BG/welcomeBG_800.png</file>
+        <file>image/img_BG/daoBG_260.png</file>
+        <file>image/img_BG/gymBG_260.png</file>
+        <file>image/img_BG/spaceBG_260.png</file>
+    </qresource>
+</RCC>

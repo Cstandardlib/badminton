@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/img_icon/back_icon.png</file>
+        <file>image/img_icon/badminton_icon.png</file>
+        <file>image/img_icon/black_icon.png</file>
+        <file>image/img_icon/help_icon.png</file>
+        <file>image/img_icon/pause_icon.png</file>
+        <file>image/img_icon/quit_icon.png</file>
+        <file>image/img_icon/restart_icon.png</file>
+        <file>image/img_icon/start_icon.png</file>
+    </qresource>
+</RCC>

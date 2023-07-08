@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/img_role/arm.png</file>
+        <file>image/img_role/duck.png</file>
+        <file>image/img_role/duckW.png</file>
+        <file>image/img_role/guoshen.png</file>
+        <file>image/img_role/guoshenW.png</file>
+        <file>image/img_role/ikun.png</file>
+        <file>image/img_role/ikunW.png</file>
+        <file>image/img_role/leg.png</file>
+        <file>image/img_role/nobody.png</file>
+        <file>image/img_role/nobodyW.png</file>
+        <file>image/img_role/racket.png</file>
+        <file>image/img_role/racket60.png</file>
+        <file>image/img_role/arm_long.png</file>
+    </qresource>
+</RCC>
